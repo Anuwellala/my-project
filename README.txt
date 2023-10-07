@@ -1,3 +1,5 @@
-value = 10
+
+
+car = Car('A')
 print('Hello')
-print(value)
+print(car.value)
